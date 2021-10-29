@@ -8,6 +8,8 @@
 - project-guidelines (https://github.com/elsewhencode/project-guidelines)
 - javascript-testing-best-practices (https://github.com/goldbergyoni/javascript-testing-best-practices)
 - must-watch-javascript (https://github.com/AllThingsSmitty/must-watch-javascript)
+- imutabilidade-eis-a-questao (https://medium.com/opensanca/imutabilidade-eis-a-quest%C3%A3o-507fde8c6686)
+- pure-finctions-immutability-clean-code-quality (https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 
 ### Go 
 - Aprenda Go 🇧🇷 (https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
