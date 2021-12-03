@@ -1,5 +1,4 @@
-# 🧠 to-study
-### 💛 Javascript
+## 💛 Javascript
 - [wtfjs](https://github.com/denysdovhan/wtfjs)
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -11,10 +10,13 @@
 - [imutabilidade-eis-a-questao](https://medium.com/opensanca/imutabilidade-eis-a-quest%C3%A3o-507fde8c6686)
 - [pure-functions-immutability-clean-code-quality](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 
-### ⚛ React
+## ⚛ React
 - [300+ React Interview Questions 🔥](https://dev.to/aviyel/300-react-interview-questions-4dag)
 
-### 🦔 Go 
+## 🍹 Elixir 
+- [Elixir - Guards](https://hexdocs.pm/elixir/guards.html)
+
+## 🦔 Go 
 - [Aprenda Go 🇧🇷](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
 - [go-for-javascript-developer](https://github.com/pazams/go-for-javascript-developers)
 - [gorm](https://github.com/jinzhu/gorm)
@@ -36,8 +38,8 @@
 - [gowebexamples](https://gowebexamples.com/)
 - [gobyexample](https://gobyexample.com/)
 
-### 👨‍💻 Haskell 
+## 👨‍💻 Haskell 
 - [docs](https://www.haskell.org/documentation/)
 
-### 🐫 Ocaml
+## 🐫 Ocaml
 - [ocaml4noobs](https://github.com/Camilotk/ocaml4noobs)
