@@ -10,11 +10,20 @@
 - [imutabilidade-eis-a-questao](https://medium.com/opensanca/imutabilidade-eis-a-quest%C3%A3o-507fde8c6686)
 - [pure-functions-immutability-clean-code-quality](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
 
+<br/>
+
 ## ⚛ React
 - [300+ React Interview Questions 🔥](https://dev.to/aviyel/300-react-interview-questions-4dag)
 
+<br/>
+
 ## 🍹 Elixir 
-- [Elixir - Guards](https://hexdocs.pm/elixir/guards.html)
+- [**Recursividade e Tail Call Optimization**](https://www.notion.so/Recursividade-e-Tail-Call-Optimization-79f2a8103b174d6db58d8bea19546c0d)
+- [**Guards**](https://hexdocs.pm/elixir/guards.html)
+- [**Enum**](https://hexdocs.pm/elixir/1.12/Enum.html)
+- [**Functions**](https://elixirschool.com/en/lessons/basics/functions/)
+
+<br/>
 
 ## 🦔 Go 
 - [Aprenda Go 🇧🇷](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
@@ -38,8 +47,12 @@
 - [gowebexamples](https://gowebexamples.com/)
 - [gobyexample](https://gobyexample.com/)
 
+<br/>
+
 ## 👨‍💻 Haskell 
 - [docs](https://www.haskell.org/documentation/)
+
+<br/>
 
 ## 🐫 Ocaml
 - [ocaml4noobs](https://github.com/Camilotk/ocaml4noobs)
