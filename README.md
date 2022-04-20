@@ -15,6 +15,7 @@
 ## ⚛ React
 - [300+ React Interview Questions 🔥](https://dev.to/aviyel/300-react-interview-questions-4dag)
 - [React Architecture Patterns for Your Projects](https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04bg)
+- [React Hook SWR - Melhor UX no consumo de API no Front End React](https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/)
 
 <br/>
 
