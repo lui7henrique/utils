@@ -1,4 +1,4 @@
-## 💛 Javascript
+# 💛 Javascript
 - [wtfjs](https://github.com/denysdovhan/wtfjs)
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -12,14 +12,15 @@
 
 <br/>
 
-## ⚛ React
+# ⚛ React
 - [300+ React Interview Questions 🔥](https://dev.to/aviyel/300-react-interview-questions-4dag)
 - [React Architecture Patterns for Your Projects](https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04bg)
 - [React Hook SWR - Melhor UX no consumo de API no Front End React](https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/)
+- [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
 <br/>
 
-## 🍹 Elixir 
+# 🍹 Elixir 
 - [**Recursividade e Tail Call Optimization**](https://www.notion.so/Recursividade-e-Tail-Call-Optimization-79f2a8103b174d6db58d8bea19546c0d)
 - [**Guards**](https://hexdocs.pm/elixir/guards.html)
 - [**Enum**](https://hexdocs.pm/elixir/1.12/Enum.html)
@@ -27,7 +28,7 @@
 
 <br/>
 
-## 🦔 Go 
+# 🦔 Go 
 - [Aprenda Go 🇧🇷](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
 - [go-for-javascript-developer](https://github.com/pazams/go-for-javascript-developers)
 - [gorm](https://github.com/jinzhu/gorm)
@@ -51,10 +52,10 @@
 
 <br/>
 
-## 👨‍💻 Haskell 
+# 👨‍💻 Haskell 
 - [docs](https://www.haskell.org/documentation/)
 
 <br/>
 
-## 🐫 Ocaml
+# 🐫 Ocaml
 - [ocaml4noobs](https://github.com/Camilotk/ocaml4noobs)
