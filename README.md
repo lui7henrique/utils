@@ -17,6 +17,7 @@
 - [React Architecture Patterns for Your Projects](https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04bg)
 - [React Hook SWR - Melhor UX no consumo de API no Front End React](https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/)
 - [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
+- [3 React Component Design Patterns You Should Know About](https://blog.openreplay.com/3-react-component-design-patterns-you-should-know-about)
 
 <br/>
 
