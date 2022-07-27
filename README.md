@@ -1,25 +1,29 @@
-# 💛 Javascript
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-- [js-the-right-way](https://github.com/braziljs/js-the-right-way)
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [js-tips](https://github.com/loverajoel/jstips)
-- [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-- [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
-- [imutabilidade-eis-a-questao](https://medium.com/opensanca/imutabilidade-eis-a-quest%C3%A3o-507fde8c6686)
-- [pure-functions-immutability-clean-code-quality](https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516)
+# 🧠 To learn
 
-<br/>
+#### 💛 Javascript
 
-# ⚛ React
-- [300+ React Interview Questions 🔥](https://dev.to/aviyel/300-react-interview-questions-4dag)
-- [React Architecture Patterns for Your Projects](https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04bg)
-- [React Hook SWR - Melhor UX no consumo de API no Front End React](https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/)
-- [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
-- [3 React Component Design Patterns You Should Know About](https://blog.openreplay.com/3-react-component-design-patterns-you-should-know-about)
+| Name | Description | Link |
+| ---- | ----------- | ------ |
+| wtfjs | - | https://github.com/denysdovhan/wtfjs
+| js-the-right-way | - | https://github.com/braziljs/js-the-right-way
+| clean-code-javascript | - | https://github.com/ryanmcdermott/clean-code-javascript
+| js-tips | - | https://github.com/loverajoel/jstips
+| js-stack-from-scratch | - | https://github.com/verekia/js-stack-from-scratch
+| project-guidelines | - | https://github.com/elsewhencode/project-guidelines
+| javascript-testing-best-practices | - | https://github.com/goldbergyoni/javascript-testing-best-practices
+| must-watch-javascript | - | https://github.com/AllThingsSmitty/must-watch-javascript
+| imutabilidade-eis-a-questao | - | https://medium.com/opensanca/imutabilidade-eis-a-quest%C3%A3o-507fde8c6686
+| pure-functions-immutability-clean-code-quality | - | https://blog.codecasts.com.br/pure-finctions-immutability-clean-code-quality-31825b0d7516
 
-<br/>
+
+### ⚛ React
+| Name | Description | Link |
+| ---- | ----------- | ------ |
+| 300+ React Interview Questions 🔥 | - | https://dev.to/aviyel/300-react-interview-questions-4dag
+| React Architecture Patterns for Your Projects | - | https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04bg
+| React Hook SWR - Melhor UX no consumo de API no Front End React | - | https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/
+| 21 Best Practices for a Clean React Project | - | https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
+| 3 React Component Design Patterns You Should Know About | - | https://blog.openreplay.com/3-react-component-design-patterns-you-should-know-about
 
 # 🍹 Elixir 
 - [**Recursividade e Tail Call Optimization**](https://www.notion.so/Recursividade-e-Tail-Call-Optimization-79f2a8103b174d6db58d8bea19546c0d)
