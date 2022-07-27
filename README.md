@@ -77,7 +77,6 @@
 | ---- | ----------- | ------ |
 | ocaml4noobs | - | [https://www.haskell.org/documentation/](https://github.com/Camilotk/ocaml4noobs)
 
----
 
 # ⚙️ Utils:
 | Name | Description | Link |
