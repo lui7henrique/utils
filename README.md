@@ -60,3 +60,10 @@
 
 # 🐫 Ocaml
 - [ocaml4noobs](https://github.com/Camilotk/ocaml4noobs)
+
+
+
+# Utils:
+| Name | Description | Link |
+| ---- | ----------- | ------ |
+| ZSH git aliases | The git plugin provides many aliases and several useful functions. Why not go through these and attempt to memorize your top ten? Here are the ones I use most often. | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git#aliases 
