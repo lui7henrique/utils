@@ -62,19 +62,22 @@
 | gowebexamples | - | https://gowebexamples.com/
 | gobyexample | - | https://gobyexample.com/
 
+<br/>
+
+### 👨‍💻 Haskell 
+| Name | Description | Link |
+| ---- | ----------- | ------ |
+| docs | - | https://www.haskell.org/documentation/
 
 
 <br/>
 
-# 👨‍💻 Haskell 
-- [docs](https://www.haskell.org/documentation/)
+### 🐫 Ocaml
+| Name | Description | Link |
+| ---- | ----------- | ------ |
+| ocaml4noobs | - | [https://www.haskell.org/documentation/](https://github.com/Camilotk/ocaml4noobs)
 
-<br/>
-
-# 🐫 Ocaml
-- [ocaml4noobs](https://github.com/Camilotk/ocaml4noobs)
-
-
+---
 
 # ⚙️ Utils:
 | Name | Description | Link |
